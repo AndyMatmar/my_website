@@ -195,11 +195,11 @@ params:
           content: Production Department
         content: |
           - Production Department
-            - Oversaw the life-cycle of multilingual text and AV translation projects for a variety of clients, content types, and project scopes, ensuring quality and TAT were met.
-            - Conducted quality checks and gave feedback.
+            + Oversaw the life-cycle of multilingual text and AV translation projects for a variety of clients, content types, and project scopes, ensuring quality and TAT were met.
+            + Conducted quality checks and gave feedback.
           - Vendor Management Team Department
-            - Helped develop scalable solutions for vetting and ranking over 300 linguists in various languages.
-            - Helped Sublime meet ISO standards to remain competitive and drive new business.
+            + Helped develop scalable solutions for vetting and ranking over 300 linguists in various languages.
+            + Helped Sublime meet ISO standards to remain competitive and drive new business.
 
       - job: "AV Subtitler/Translator/QCer"
         company: "Freelance Subtitler"
@@ -213,7 +213,7 @@ params:
         content: |
           Worked on over 5000 minutes of high-profile subtitling projects, meeting quality and delivery standards for several clients/LSPs. Flexible in undertaking complex requests with sudden changes in scope and workflow.
           - Language Pairs: EN>ES, ES>EN (Castillian and Latam ES)
-          - Roles: Language Template Authoring and QC, Subtitle Authoring and QC, SDH/CC Authoring and QC
+          - Roles: Authoring and QC on Language Templates, Subtitles, and SDH/CC
           - Software: EZTitles, OOONA
           - Specs: Netflix, Amazon, RedBull, Custom
 
