@@ -149,8 +149,9 @@ params:
     enable: true
     title: "About Me"
     image: "/images/office_2.jpg"
-    content: |-
-      I am a localization specialist with a focus on vendor and project management for Netflix-commissioned subtitles. I have a background in translation, teaching, and copywriting, and I have a profound interest in workflow streamlining and optimization. I am currently working as DTT Partner Lead at Transperfect Media.
+    content: |
+        I am a localization specialist with a focus on vendor and project management for Netflix-commissioned subtitles. I have a background in translation, teaching, and copywriting, and I have a profound interest in workflow streamlining and optimization. I am currently working as DTT Partner Lead at Transperfect Media.
+    
     skills:
       enable: true
       title: "Here are a few of my skills:"
