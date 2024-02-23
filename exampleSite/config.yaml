@@ -149,7 +149,7 @@ params:
     enable: true
     title: "About Me"
     image: "/images/office_2.jpg"
-    content: -|
+    content: |-
         I am a localization specialist with a focus on vendor and project management for Netflix-commissioned subtitles. I have a background in translation, teaching, and copywriting, and I have a profound interest in workflow streamlining and optimization. I am currently working as DTT Partner Lead at Transperfect Media.
     
     skills:
@@ -176,8 +176,8 @@ params:
           enable: true
           name: "View DTT Program"
           url: "http://gvm.netflixstudios.com/"
-        content: |
-        - I am currently working as a team lead at [Sublime Subtitling / TransPerfect Media](https://www.transperfect.com/media) in Madrid, Spain. I am currently leading a team in charge of training and managing a pool of 200 + linguists who fulfill Netflix-commissioned timed text projects.
+        content: |-
+          I am currently working as a team lead at [Sublime Subtitling / TransPerfect Media](https://www.transperfect.com/media) in Madrid, Spain. I am currently leading a team in charge of training and managing a pool of 200 + linguists who fulfill Netflix-commissioned timed text projects.
 
       - job: "Software Developer"
         company: "Amazon"
