@@ -194,12 +194,12 @@ params:
           enable: true
           content: Production Department
         content: |
-          Production Department
-          - Oversaw the life-cycle of multilingual text and AV translation projects for a variety of clients, content types, and project scopes, ensuring quality and TAT were met.
-          - Conducted quality checks and gave feedback.
-          Vendor Management Team Department
-          - Helped develop scalable solutions for vetting and ranking over 300 linguists in various languages.
-          - Helped Sublime meet ISO standards to remain competitive and drive new business.
+          - Production Department
+            - Oversaw the life-cycle of multilingual text and AV translation projects for a variety of clients, content types, and project scopes, ensuring quality and TAT were met.
+            - Conducted quality checks and gave feedback.
+          - Vendor Management Team Department
+            - Helped develop scalable solutions for vetting and ranking over 300 linguists in various languages.
+            - Helped Sublime meet ISO standards to remain competitive and drive new business.
 
       - job: "AV Subtitler/Translator/QCer"
         company: "Freelance"
@@ -211,9 +211,7 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          Worked on over 5000 minutes of high-profile subtitling projects, meeting quality and delivery standards for several clients/LSPs.
-          Flexible in undertaking complex requests with sudden changes in scope and workflow.
-
+          Worked on over 5000 minutes of high-profile subtitling projects, meeting quality and delivery standards for several clients/LSPs. Flexible in undertaking complex requests with sudden changes in scope and workflow.
           - Language Pairs: EN>ES, ES>EN (Castillian and Latam ES)
           - Roles: Language Template Authoring and QC, Subtitle Authoring and QC, SDH/CC Authoring and QC
           - Software: EZTitles, OOONA
@@ -230,32 +228,16 @@ params:
           Planned and delivered full lessons for 18 classes at a top-ranked school in Madrid. Integrated technology, music, and drama to keep it engaging and fun Integrated technology, music, and drama to keep lessons engaging and fun, resulting in a general improvement in students' grades and attitudes toward learning a second language.
 
       - job: "Floor Supervisor/Marketing Assistant"
-        company: "Project 219 Cafe"
+        company: "Project 219 Café"
         companyUrl: "https://www.facebook.com/importersofhardware/?locale=es_LA"
         date: "Sep 2013 - Mar 2014"
-        content: |
-          Multi-purpose manager at up-and-coming café in CBD.
-          - Floor Supervisor and Cook
-          - Managed floor during service and organized events.
-          - In charge of daily operations of the restaurant (opening/closing, balancing, stock, etc.)
-          - Came up with recipes, cooked, and did prep.
-          Marketing
-          - In charge of the social media portfolio.
-          - Executed promotion strategy, and wrote copy and menus.
+        content: "As the dynamic manager of a rising café in Melbourne's CBD, I juggled roles from Floor Supervisor to Cook and Marketer. I efficiently managed service floors, organized events, and handled daily café operations. Learned culinary skills as I executed and then created recipes and prepared dishes. On the marketing front, I led our social media efforts, developed promotions, and crafted menus. My initiative also brought to life a cocktail bar in the basement"
 
-        - job: "Floor Supervisor/Marketing Assistant"
+        - job: "Freelance EN<>ES Translator"
         company: "Project 219 Cafe"
         companyUrl: "https://www.facebook.com/importersofhardware/?locale=es_LA"
-        date: "Sep 2013 - Mar 2014"
-        content: |
-          Multi-purpose manager at up-and-coming café in CBD.
-          - Floor Supervisor and Cook
-          - Managed floor during service and organized events.
-          - In charge of daily operations of the restaurant (opening/closing, balancing, stock, etc.)
-          - Came up with recipes, cooked, and did prep.
-          Marketing
-          - In charge of the social media portfolio.
-          - Executed promotion strategy, and wrote copy and menus.
+        date: "Jan 2018 - May 2018"
+        content: "Under my father's tutelage, and having grown up bilingual in Spanish and English, I learned and perfected the translation trade. My work spanned translating diverse materials, from magazine features and columns to technical guides and legal papers, showcasing my versatility and linguistic proficiency."
 
   # Education
   education:
