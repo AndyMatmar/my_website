@@ -178,26 +178,31 @@ params:
           url: "http://gvm.netflixstudios.com/"
         content: |-
           I am currently working as an account manager and team lead at [TransPerfect Media (formerly Sublime Subtitling)](https://www.transperfect.com/media) in Madrid, Spain. I am currently leading a team in charge of training and managing a pool of 200 + linguists who fulfill Netflix-commissioned timed text projects.
-          - Account Manager and Team lead: Drove strategy and client engagement for Netflix-commissioned subtitling projects, ensuring client satisfaction and enhancing project volume by [Y]% YoY.
-          - Recruitment: Developed scalable eLearning courses, cutting onboarding time in half and growing our linguist pool by 900%, expanding language coverage to 20+ languages.
-          - Operations: Innovated 6 project management and quality assurance protocols, enhancing team productivity and readiness for scaling up as needed.
-          - KPI analysis: Lead strategy to consistently meet Netflix's KPI targets in on-time delivery and two key types of quarterly quality control assessments.
+          - Account Manager and Team lead: Drove strategy and client engagement for Netflix Direct Timed Text projects, ensuring client satisfaction and enhancing project volume and revenue by 77.26% average YoY.
           
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+          - Recruitment: Developed scalable eLearning courses, cutting onboarding time in half and growing our linguist pool by 900%, expanding language coverage to 20+ languages.
+          
+          - Operations: Innovated 6 project management and quality assurance protocols, enhancing team productivity and readiness for scaling up as needed, and slashing department costs by at least 40%.
+          
+          - KPI analysis: Lead strategy to consistently meet Netflix's KPI milestones in On-time Delivery rate, Objective Errors Per Subtitle Event, and Subtitle Redelivery Request rate.
+          
+      - job: "Localization Project Manager"
+        company: "Sublime Subtitling"
+        companyUrl: "https://www.sublimesubtitling.com/"
+        date: "May 2018 - Dec 2018"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: Production Department
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Production Department
+          - Oversaw the life-cycle of multilingual text and AV translation projects for a variety of clients, content types, and project scopes, ensuring quality and TAT were met.
+          - Conducted quality checks and gave feedback.
+          Vendor Management Team Department
+          - Helped develop scalable solutions for vetting and ranking over 300 linguists in various languages.
+          - Helped Sublime meet ISO standards to remain competitive and drive new business.
 
       - job: "Junior Software Developer"
         company: "Apple"
