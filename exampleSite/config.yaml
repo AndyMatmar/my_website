@@ -133,7 +133,7 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "CV"
       url: "#"
       download: true
       newPage: false
@@ -155,12 +155,12 @@ params:
       enable: true
       title: "Here are a few of my skills:"
       items:
-        - "Linguistics (Translating, copywriting, editing)"
-        - "Subtitling (EZT, OOONA, Originator)"
-        - "Timed Text Specifications (Netflix, Custom)"
-        - "Productivity (Office, Google Suite)"
-        - "Video (Premiere, ScreenPal)"
-        - "Data Analytics (Tableau, PowerBI)"
+        - "Linguistics"
+        - "Timed Text"
+        - "Productivity Software"
+        - "Video Editing"
+        - "Data Analytics"
+        - "Teaching"
 
   # Experience
   experience:
