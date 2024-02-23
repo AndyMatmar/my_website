@@ -203,7 +203,7 @@ params:
 
       - job: "AV Subtitler/Translator/QCer"
         company: "Freelance"
-        companyUrl: ""
+        companyUrl: "gaga.com"
         date: "Jul 2017 - May 2018"
         info:
           enable: false
