@@ -167,15 +167,16 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Vendor Lead Netflix DTT Partner Program"
+        company: "TransPerfect Media"
+        companyUrl: "https://www.transperfect.com/media"
+        date: "Jan 2019 - present"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          name: "View DTT Program"
+          url: "http://gvm.netflixstudios.com/"
+        content: |
+        I am currently working as a team lead at [Sublime Subtitling / TransPerfect Media](https://www.transperfect.com/media) in Madrid, Spain. I am currently leading a team in charge of training and managing a pool of 200 + linguists who fulfill Netflix-commissioned timed text projects.
 
       - job: "Software Developer"
         company: "Amazon"
