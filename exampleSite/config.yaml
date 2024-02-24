@@ -249,6 +249,8 @@ params:
         school:
           name: "Universidad de Salamanca"
           url: "https://www.usal.es/universidad-de-salamanca"
+          
+      - title: "An autodidact and an observer, everything else I learned from others or taught myself"
 
   # Achievements
   achievements:
