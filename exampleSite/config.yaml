@@ -32,7 +32,7 @@ Menus:
     - identifier: gallery
       name: Gallery
       title: Blog posts
-      url: /gallery
+      url: "#" # use /gallery later on
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
