@@ -267,8 +267,7 @@ params:
           - "GitHub"
           - "Javascript"
           - "Html"
-          - "Bootstrap"
-          
+          - "Bootstrap" 
          links:
           - icon: fa fa-envelope
             url: mailto:?subject=Andy's%20Profile&body=Check%20it%20out:%20http%3A%2F%2Famathews.com
