@@ -27,7 +27,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /blogs
+      url: "#" # use /blogs later on
       weight: 1
     - identifier: gallery
       name: Gallery
