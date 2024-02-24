@@ -253,24 +253,24 @@ params:
       - title: "An observer and autodidact. Everything else I learned from others or taught myself"
 
   # projects
-projects:
-  enable: true
-  # title: "Custom Name"
-  items:
-    - title: My Professional Profile
-      content: As a learning experience, I built my personal portfolio and blog on GitHub.
-      image: /images/projects/profile 2.png
-      featured:
-        name: Demo
-        link: https://amathews.com/
-      badges:
-        - "GitHub"
-        - "Javascript"
-        - "Html"
-        - "Bootstrap"
-      links:
-        - icon: fa fa-envelope
-          url: mailto:?subject=Andy's%20Profile&body=Check%20it%20out:%20http%3A%2F%2Famathews.com
+  projects:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: My Professional Profile
+        content: As a learning experience, I built my personal portfolio and blog on GitHub.
+        image: /images/projects/profile 2.png
+        featured:
+          name: Demo
+          link: https://amathews.com/
+        badges:
+          - "GitHub"
+          - "Javascript"
+          - "Html"
+          - "Bootstrap"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Andy's%20Profile&body=Check%20it%20out:%20http%3A%2F%2Famathews.com
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
