@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "CV"
-      url: "https://amathews.com/exampleSite/static/Andy Mathews_CV_2024.pdf"
+      url: "https://amathews.com/Andy%20Mathews_CV_2024.pdf"
       download: true
       newPage: false
     socialLinks:
